@@ -1,7 +1,9 @@
 <div align="center">
-<h1 align="center">Hi 👋, I'm Santiago</h1>
+<h1>Hi 👋, I'm Santiago</h1>
  <img align="center" id="img" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGViMjg2MzcyMGFhOGYzNzBiYTg2YjJkMDE4NDUyYTJhYmNlNGFlOCZjdD1n/bslZVlHus4AVVEQf1S/giphy.gif" alt="">
-<h3 align="center">Full Stack Developer from Uruguay</h3>
+<h3>Full Stack Developer from Uruguay</h3>
+</div>
+<br>
 
 
 - 🌱 I’m currently learning **Java BackEnd & AI/Deep Learning in Python**
@@ -17,7 +19,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/santiago-burguenoo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="santiago-burguenoo/" height="30" width="30" /></a>
 </p>
-</div>
     <h2>Skills🌱</h2>
     <ul>
       <li><strong>Strong communication skills</strong></li>
