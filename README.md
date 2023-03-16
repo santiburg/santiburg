@@ -4,7 +4,7 @@
 <h3>Full Stack Developer from Uruguay</h3>
 </div>
 <br>
-
+<br/>
 
 - 🌱 I’m currently learning **Java BackEnd & AI/Deep Learning in Python**
 
