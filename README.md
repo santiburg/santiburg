@@ -19,6 +19,7 @@
 </p>
     <h2 align="left">Skills🌱</h2>
     <ul align="left">
+      <li><strong>Strong communication skills</strong></li>
       <li><strong>HTML & CSS</strong></li>
       <li><strong>Javascript</strong></li>
       <li><strong>Bootstrap</strong></li>
@@ -26,6 +27,5 @@
       <li><strong>React</strong></li>
       <li><strong>Flask</strong></li>
       <li><strong>React</strong></li>
-      <li><strong>Strong communication skills</strong></li>
     </ul>
 </div>
