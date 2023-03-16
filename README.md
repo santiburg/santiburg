@@ -14,4 +14,4 @@
 <p align="center">
 <a href="https://linkedin.com/in/santiago-burguenoo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="santiago-burguenoo/" height="30" width="30" /></a>
 </p>
-<img src="https://giphy.com/gifs/bslZVlHus4AVVEQf1S">
+ <img id="img" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGViMjg2MzcyMGFhOGYzNzBiYTg2YjJkMDE4NDUyYTJhYmNlNGFlOCZjdD1n/bslZVlHus4AVVEQf1S/giphy.gif" alt="">
