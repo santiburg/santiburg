@@ -10,7 +10,7 @@
 
 - 📖 I’m currently studying at **Globant University**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chipili12?tab=repositories](https://github.com/Chipili12?tab=repositories)
+- 👨‍💻 Some of my projects are available at [https://github.com/Chipili12?tab=repositories](https://github.com/Chipili12?tab=repositories)
 
 - 💬 Ask me about **JS, Python, CSS, HTML, React & Flask**
 
