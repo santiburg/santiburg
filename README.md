@@ -17,8 +17,8 @@
 <p align="center">
 <a href="https://linkedin.com/in/santiago-burguenoo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="santiago-burguenoo/" height="30" width="30" /></a>
 </p>
-    <h2 align="left">Skills🌱</h2>
-    <ul align="left">
+    <h2>Skills🌱</h2>
+    <ul>
       <li><strong>Strong communication skills</strong></li>
       <li><strong>HTML & CSS</strong></li>
       <li><strong>Javascript</strong></li>
