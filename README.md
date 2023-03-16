@@ -1,6 +1,8 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Santiago</h1>
  <img align="center" id="img" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGViMjg2MzcyMGFhOGYzNzBiYTg2YjJkMDE4NDUyYTJhYmNlNGFlOCZjdD1n/bslZVlHus4AVVEQf1S/giphy.gif" alt="">
 <h3 align="center">Full Stack Developer from Uruguay</h3>
+</div>
 
 - 🌱 I’m currently learning **Java BackEnd & AI/Deep Learning in Python**
 
