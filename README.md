@@ -26,6 +26,6 @@
       <li><strong>React</strong></li>
       <li><strong>Flask</strong></li>
       <li><strong>React</strong></li>
-      <li><strong>Strong spanish & english</strong></li>
+      <li><strong>Strong communication skills</strong></li>
     </ul>
 </div>
