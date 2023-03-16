@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java BackEnd & AI/Deep Learning in Python**
 
-- 📖 I’m currently studying at **Globant University**
+- 📖 Currently studying at **Globant University**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chipili12?tab=repositories](https://github.com/Chipili12?tab=repositories)
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **santibur@live.com**
 
-<p align="center">
+<p>
 <a href="https://linkedin.com/in/santiago-burguenoo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="santiago-burguenoo/" height="30" width="30" /></a>
 </p>
 </div>
