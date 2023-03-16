@@ -15,6 +15,7 @@
 - 💬 Ask me about **JS, Python, CSS, HTML, React & Flask**
 
 - 📫 How to reach me **santibur@live.com**
+<br>
 
     <h2>Skills🌱</h2>
     <ul>
