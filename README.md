@@ -20,6 +20,7 @@
     <h2>Skills🌱</h2>
     <ul>
       <li><strong>Strong communication skills</strong></li>
+      <li><strong>Fast learner</strong></li>
       <li><strong>HTML & CSS</strong></li>
       <li><strong>Javascript</strong></li>
       <li><strong>Bootstrap</strong></li>
