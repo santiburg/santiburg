@@ -27,4 +27,5 @@
       <li><strong>React</strong></li>
       <li><strong>Flask</strong></li>
       <li><strong>React</strong></li>
+      <li><strong>SQLAlchemy</strong></li>
     </ul>
