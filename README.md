@@ -6,7 +6,7 @@
 <br>
 <br/>
 
-- 🌱 I’m currently learning Fullstack Web Development, using **NextJS & ThreeJS**
+- 🌱 I’m currently learning Fullstack Web Development, focusing on **NextJS**
 
 - 📖 I'm currently engaged in self-directed study
 
