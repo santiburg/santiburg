@@ -23,12 +23,10 @@
       <li><strong>React</strong></li>
       <li><strong>NextJS</strong></li>
       <li><strong>HTML & CSS</strong></li>
-      <li><strong>Bootstrap</strong></li>
+      <li><strong>Bootstrap & TailWind CSS</strong></li>
       <li><strong>Python</strong></li>
       <li><strong>Flask</strong></li>
-      <li><strong>React</strong></li>
-      <li><strong>SQLAlchemy</strong></li>
-      <li><strong>...</strong></li>
+      <li><strong>SQL</strong></li>
     </ul>
     
 
