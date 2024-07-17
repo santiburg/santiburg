@@ -6,13 +6,11 @@
 <br>
 <br/>
 
-- 🌱 I’m currently learning Fullstack Web Development, focusing on **NextJS**
+- 🌱 I’m currently learning Fullstack Web Development, and Cloud Computing focused on **AWS Services**.
 
-- 📖 I'm currently engaged in self-directed study
+- 📖 I'm currently engaged in self-directed study, and multiple courses.
 
 - 👨‍💻 Some of my projects are available at [https://github.com/Chipili12?tab=repositories](https://github.com/Chipili12?tab=repositories)
-
-- 💬 Ask me about **JS, React, NextJS, CSS, HTML, Python, & Flask**
 
 - 📫 You can reach me at **santibur@live.com**
 <br>
@@ -21,15 +19,17 @@
     <ul>
       <li><strong>Strong communication skills</strong></li>
       <li><strong>Fast learner</strong></li>
-      <li><strong>HTML & CSS</strong></li>
       <li><strong>Javascript</strong></li>
+      <li><strong>React</strong></li>
+      <li><strong>NextJS</strong></li>
+      <li><strong>HTML & CSS</strong></li>
       <li><strong>Bootstrap</strong></li>
       <li><strong>Python</strong></li>
-      <li><strong>React</strong></li>
       <li><strong>Flask</strong></li>
       <li><strong>React</strong></li>
       <li><strong>SQLAlchemy</strong></li>
       <li><strong>...</strong></li>
+    </ul>
     
 
 
