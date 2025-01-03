@@ -10,7 +10,7 @@
 
 - 📖 I'm currently engaged in self-directed study, and multiple courses.
 
-- 👨‍💻 Some of my projects are available at [https://github.com/Chipili12?tab=repositories](https://github.com/Chipili12?tab=repositories)
+- 👨‍💻 Some of my projects are available at [https://github.com/Chipili12?tab=repositories](https://github.com/santiburg?tab=repositories)
 
 - 📫 You can reach me at **santibur@live.com**
 <br>
